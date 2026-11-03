@@ -1,0 +1,6 @@
+{
+  "var1": "Hello",
+  "var2": "5",
+  "var3": "Hello Variables!",
+  "app_config": "{\"bucket\": \"my-bucket\", \"threshold\": 0.8}"
+}

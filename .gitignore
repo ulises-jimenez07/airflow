@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local Airflow home (DB, logs, config) when running airflow standalone
+.airflow/
+airflow.db
+logs/
+
+# Credentials: never commit
+*.json.key
+*-key.json
+id_rsa*
+id_ed25519*
+
+.DS_Store
